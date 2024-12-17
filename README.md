@@ -3,6 +3,11 @@
 rwbasechat is a simple chat webpart to include as webparts on SharePoint Online sites. It allows you to communicate through chat messages with your SharePoint audience.
 To achieve this, this webpart uses a SharePoint list where the messages are stored. There is emoji support, but still a lot to do, especially on security and stability issues.
 
+
+![image](https://github.com/user-attachments/assets/01c5c22a-66b3-49b2-91e3-8c3b5b0975ad)
+
+
+
 ### Building the code
 
 ```bash
